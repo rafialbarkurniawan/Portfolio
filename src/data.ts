@@ -25,8 +25,8 @@ export const personalData = {
   location: "Bekasi, Jawa Barat",
   phone: "+62-895-6173-88669",
   email: "rafialbar81@gmail.com",
-  linkedin: "https://www.linkedin.com/in/rafi-albar-kurniawan", // Placeholder with professional pattern
-  github: "https://github.com/RafiAlbar", // Placeholder with professional pattern
+  linkedin: "https://www.linkedin.com/in/rafi-albar-kurniawan-1292a0206", // Placeholder with professional pattern
+  github: "https://github.com/rafialbarkurniawan", // Placeholder with professional pattern
   bioShort: "Lulusan Informatika Universitas Singaperbangsa Karawang (IPK 3.85) yang memadukan keahlian mendalam di bidang Data Science/NLP dengan kemampuan pengembangan web modern (ReactJS). Berpengalaman mengekstraksi wawasan berharga dari puluhan ribu data teks tidak terstruktur sekaligus merancang antarmuka web yang responsif, dinamis, dan berorientasi pengguna.",
   aboutStory: {
     academic: "Lulus dengan predikat sangat memuaskan (IPK 3.85) dari S1 Informatika Universitas Singaperbangsa Karawang, saya memfokuskan studi saya pada Machine Learning, khususnya Natural Language Processing (NLP) dan Topic Modeling. Selama masa studi, saya juga aktif di Study Club Web Development untuk mengasah kemampuan rekayasa perangkat lunak.",
